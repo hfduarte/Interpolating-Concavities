@@ -11,7 +11,6 @@ J. Duarte and M. McKenney. Interpolating Concavities. ACM SIGAPP Applied Computi
 /src contains the source code for the algorithm to interpolate concavities as presented in the paper mentioned. 
 The algorithm was implemented using python 3. Because of a dependency on the Scientific Python Geometric Algorithms Library we use miniconda3. 
 lcip_opt.py contains the implementation described on the paper. 
-lcip_opt.py contains the implementation described on the paper. 
 lcip_nopt.py contains an older implementation.
 
 /dep contains the GUI dependencies.
@@ -41,9 +40,9 @@ Choose Select All and click Finish.
 
 Install miniconda3
 
-Install the dependencies using miniconda, Shapely + skgeom.
+Install the dependencies, shapely and skgeom, using miniconda.
 
-The tests can be runned using the GUI or directly calling the python script as:
+The tests can be runned using the GUI or directly by calling the python script as:
 
 ```bash
 python lcip_opt.py <number_of_tests>
