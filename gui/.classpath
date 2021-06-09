@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/user/jts/jts-core-1.16.1.jar"/>
+	<classpathentry kind="lib" path="/home/user/jts/jts-io-common-1.16.1.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-coverage/22-SNAPSHOT/gt-coverage-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-cql/22-SNAPSHOT/gt-cql-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-main/22-SNAPSHOT/gt-main-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-metadata/22-SNAPSHOT/gt-metadata-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-opengis/22-SNAPSHOT/gt-opengis-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-referencing/22-SNAPSHOT/gt-referencing-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-xml/22-SNAPSHOT/gt-xml-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-swing/22-SNAPSHOT/gt-swing-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-shapefile/22-SNAPSHOT/gt-shapefile-22-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/user/geotools/gt-render/22-SNAPSHOT/gt-render-22-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
